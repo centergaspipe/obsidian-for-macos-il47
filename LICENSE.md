@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS custom Addon: cloud backup & focus mode, the #1 addon. Includes cloud backup and focus mode for a smoother experience.
 
 
 
